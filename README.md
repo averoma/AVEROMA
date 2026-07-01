@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm a **DevOps Engineer with 5+ years of experience** . Specialized in **Kubernetes, Cloud, IaC, and CI/CD** at scale. I'm passionate about infrastructure optimization, GitOps workflows, and building reliable systems.
+Welcome to my GitHub profile! I'm a **DevOps Engineer with 5+ years of experience**. Specialized in **Kubernetes, Cloud, IaC, and CI/CD** at scale. I'm passionate about infrastructure optimization, GitOps workflows, and building reliable systems and other things that Claude parsed for me.
 
 ---
 
@@ -14,6 +14,20 @@ Welcome to my GitHub profile! I'm a **DevOps Engineer with 5+ years of experienc
 - 🔗 [LinkedIn](https://linkedin.com/in/averoma)
 - 🌐 [Notion Resume](https://averoma.notion.site/DevOps-Engineer-Roman-Averyanov-8b9c943509f4447fb30fe669fad6eea2)
 - 💻 GitHub: You're already here! Haha what a joke, damn...
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Roman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVEROMA&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AVEROMA&layout=compact&theme=dark)
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=AVEROMA&theme=dark)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
