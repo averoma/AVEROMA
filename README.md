@@ -21,9 +21,12 @@ Welcome to my GitHub profile! I'm a **DevOps Engineer with 5+ years of experienc
 
 <div align="center">
 
-![Roman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVEROMA&show_icons=true&theme=dark&count_private=true)
+![GitHub followers](https://img.shields.io/github/followers/AVEROMA?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/AVEROMA?style=social)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AVEROMA&layout=compact&theme=dark)
+</div>
+
+<div align="center">
 
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=AVEROMA&theme=dark)](https://git.io/streak-stats)
 
