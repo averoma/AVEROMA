@@ -10,9 +10,10 @@ Welcome to my GitHub profile! I'm a **DevOps Engineer with 5+ years of experienc
 
 ### 📫 How to Reach Me
 
-- 📧 Email: averoma.job@gmail.com
+- 📧 averoma.job@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/averoma)
 - 🌐 [Notion Resume](https://averoma.notion.site/DevOps-Engineer-Roman-Averyanov-8b9c943509f4447fb30fe669fad6eea2)
+- 📄 [.PDF Resume](https://drive.google.com/file/d/1IRi0dZLhiqiuE7xkH1LQWst1Qtu8nbir/view?usp=share_link)
 - 💻 GitHub: You're already here! Haha what a joke, damn...
 
 ---
