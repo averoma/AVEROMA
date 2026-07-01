@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**AVEROMA/AVEROMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **DevOps Engineer with 5+ years of experience** . Specialized in **Kubernetes, Cloud, IaC, and CI/CD** at scale. I'm passionate about infrastructure optimization, GitOps workflows, and building reliable systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Open to Collaboration
+
+- Web3 / Modern Fintech
+
+### 📫 How to Reach Me
+
+- 📧 Email: averoma.job@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/averoma)
+- 🌐 [Notion Resume](https://averoma.notion.site/DevOps-Engineer-Roman-Averyanov-8b9c943509f4447fb30fe669fad6eea2)
+- 💻 GitHub: You're already here! Haha what a joke, damn...
+
+---
+
+<div align="center">
+
+**Let's build something amazing together!** 🚀
+
+</div>
